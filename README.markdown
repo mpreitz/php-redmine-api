@@ -181,4 +181,4 @@ $client->setImpersonateUser(null);
 * Thanks to [Thomas Spycher](https://github.com/tspycher/) for the 1st version of the class.
 * Thanks to [Thibault Duplessis aka. ornicar](https://github.com/ornicar) for the php-github-api library, great source of inspiration!
 * And all the [contributors](https://github.com/kbsali/php-redmine-api/graphs/contributors)
-* specially [JanMalte](https://github.com/JanMalte) for his impressive contribution to the test coverage! :)
+* especially [JanMalte](https://github.com/JanMalte) for his impressive contribution to the test coverage! :)
